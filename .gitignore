@@ -2,4 +2,4 @@ Prueba DS Sr_Sumz_20240305.pdf
 utils/__pycache__
 mdpdf.log
 data
-images/
+saved_models/*
